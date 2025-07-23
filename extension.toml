@@ -4,7 +4,7 @@ name = "Shader Language Server"
 description = "Exposes Shader Language Server for HLSL, GLSL, and WGSL."
 version = "0.1.0"
 authors = ["Christian Howe <christianjacobhowe@gmail.com>"]
-repository = "https://github.com/cjhowe-us/zed-hlsl-ls"
+repository = "https://github.com/cjhowe-us/zed-shader-ls"
 
 [language_servers.shader-language-server]
 name = "Shader Language Server"
