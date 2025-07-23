@@ -1,13 +1,10 @@
 [package]
 name = "zed-hlsl-ls"
-description = "HLSL (Shader Language Server)"
+description = "A language server for HLSL using Shader Language Server"
 version = "0.1.0"
+authors = ["Christian Howe <christianjacobhowe@gmail.com>"]
+repository = "https://github.com/cjhowe-us/zed-hlsl-ls"
 edition = "2024"
-authors = [
-  "Igor Dreher <igor.dreher@gmail.com>",
-  "Christian Howe <christianjacobhowe@gmail.com>",
-]
-repository = "https://github.com/igordreher/zed-hlsl"
 
 [lib]
 crate-type = ["cdylib"]
