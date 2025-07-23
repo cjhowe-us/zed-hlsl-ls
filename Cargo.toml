@@ -1,6 +1,6 @@
 [package]
 name = "zed-hlsl-ls"
-description = "A language server for HLSL using Shader Language Server"
+description = "A Zed extension for HLSL using Shader Language Server"
 version = "0.1.0"
 authors = ["Christian Howe <christianjacobhowe@gmail.com>"]
 repository = "https://github.com/cjhowe-us/zed-hlsl-ls"
