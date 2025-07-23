@@ -311,7 +311,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "zed-hlsl-ls"
+name = "zed-shader-ls"
 version = "0.1.0"
 dependencies = [
  "zed_extension_api",

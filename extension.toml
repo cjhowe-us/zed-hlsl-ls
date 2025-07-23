@@ -8,4 +8,4 @@ repository = "https://github.com/cjhowe-us/zed-shader-ls"
 
 [language_servers.shader-language-server]
 name = "Shader Language Server"
-languages = ["HLSL", "GLSL", "Wgsl"]
+languages = ["HLSL", "GLSL", "WGSL"]
