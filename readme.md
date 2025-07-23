@@ -1,5 +1,5 @@
-# HLSL Language Server for Zed
-> A language server for HLSL using Shader Language Server
+# Shader Language Server for Zed
+> A Zed extension providing the Shader Language Server
 
 ## Installation
 
@@ -17,4 +17,4 @@ cargo install shader-language-server
 mise use -g cargo:shader-language-server
 ```
 
-Then, install the HLSL Language Server extension through Zed.
+Then, install the Shader Language Server extension through Zed.
