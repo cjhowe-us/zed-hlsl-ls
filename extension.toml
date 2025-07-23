@@ -1,0 +1,20 @@
+id = "hlsl-ls"
+name = "HLSL (Shader Language Server)"
+version = "0.1.0"
+schema_version = 1
+path_suffixes = ["hlsl", "hlsli"]
+line_comments = ["//"]
+authors = [
+  "Igor Dreher <igor.dreher@gmail.com>",
+  "Christian Howe <christianjacobhowe@gmail.com>",
+]
+description = "HLSL (Shader Language Server)"
+repository = "https://github.com/igordreher/zed-hlsl"
+
+[grammars.hlsl]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-hlsl"
+commit = "5d788a46727c8199a7c63a3c849092e0364375b6"
+
+[language_servers.shader-language-server]
+name = "Shader Language Server"
+languages = ["HLSL"]
