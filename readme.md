@@ -1,4 +1,4 @@
-# Zed HLSL Language Server
+# HLSL Language Server for Zed
 > A language server for HLSL using Shader Language Server
 
 ## Installation
