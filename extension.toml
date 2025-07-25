@@ -1,5 +1,5 @@
 schema_version = 1
-id = "ahader-ls"
+id = "shader-ls"
 name = "Shader Language Server"
 description = "Exposes Shader Language Server for HLSL and GLSL."
 version = "0.1.0"
